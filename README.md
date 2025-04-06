@@ -12,6 +12,6 @@
   <li>7.実行が終わるのを待つと、棋譜と同じゲーム展開のアニメーションが作られる。</li>
   <li>8.あとはレンダリングするだけ。</li>
 </ul>
-<p>サンプルの.pklファイルが付属しています。また、その実行結果は<a href="">こちら</a>からご覧いただけます。</p>
+<p>サンプルの.pklファイルが付属しています。また、その実行結果をレンダリングしたものは<a href="https://drive.google.com/file/d/1ddNBA8maDiZ6IqaNGkEJAkDuN06m5FVy/view?usp=sharing" target="_blank" rel="noopener noreferrer">こちら</a>からご覧いただけます。</p>
 <img src="image.png">
 <img src="image2.png">
